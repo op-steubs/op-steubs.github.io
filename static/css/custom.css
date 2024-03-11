@@ -11,4 +11,6 @@
 .favorites { display: none; }
 .faviorites>div>.header { display: none !important; }
 
---ls-main-content-max-width-wide: 100%;
+.cp__sidebar-main-content:has(table) {
+    max-width: var(--ls-main-content-max-width-wide);
+}

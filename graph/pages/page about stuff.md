@@ -1,0 +1,6 @@
+- hi this is my cool page about STUFF!!! do you like it!!???
+- here is a picture of a goat:
+	- here is a more HQ Goat image for your liking:
+	- ![image.png](../assets/image_1710164175549_0.png)
+	-
+	-

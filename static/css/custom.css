@@ -10,3 +10,5 @@
 .recent>div>.header { display: none !important; }
 .favorites { display: none; }
 .faviorites>div>.header { display: none !important; }
+
+--ls-main-content-max-width-wide: 100%;

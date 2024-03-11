@@ -1,3 +1,6 @@
+/* This uses the logseq-dev-theme but the url can be changed to any theme's github url */
+@import url("https://cdn.jsdelivr.net/gh/mschmidtkorth/logseq-msk-enhanced@main/custom.css");
+
 .journals-nav { display: none; }
 .flashcards-nav { display: none; }
 .graph-view-nav { display: none; }
@@ -7,4 +10,3 @@
 .recent>div>.header { display: none !important; }
 .favorites { display: none; }
 .faviorites>div>.header { display: none !important; }
-.graph-view {display: none;}

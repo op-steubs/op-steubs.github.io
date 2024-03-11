@@ -1,0 +1,9 @@
+.journals-nav { display: none; }
+.flashcards-nav { display: none; }
+.graph-view-nav { display: none; }
+.all-pages-nav { display: none; }
+.calendar-nav { display: none; }
+.recent { display: none; }
+.recent>div>.header { display: none !important; }
+.favorites { display: none; }
+.faviorites>div>.header { display: none !important; }

@@ -1,5 +1,6 @@
 /* This uses the logseq-dev-theme but the url can be changed to any theme's github url */
-@import url("https://github.com/PiotrSss/logseq-clean-themes/blob/0291a12acbeccebfbc3ee2dc5f0584872ffa4ae9/custom.css");
+/*@import url("https://cdn.jsdelivr.net/gh/mschmidtkorth/logseq-msk-enhanced@main/custom.css");*/
+@import url('https://raw.githubusercontent.com/akhater/Dracula.logseq/master/custom.css');
 
 .journals-nav { display: none; }
 .flashcards-nav { display: none; }

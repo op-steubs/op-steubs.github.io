@@ -6,10 +6,10 @@
 .graph-view-nav { display: none; }
 .all-pages-nav { display: none; }
 .calendar-nav { display: none; }
-.recent { display: none; }
+/* .recent { display: none; }
 .recent>div>.header { display: none !important; }
 .favorites { display: none; }
-.faviorites>div>.header { display: none !important; }
+.faviorites>div>.header { display: none !important; } */
 
 .cp__sidebar-main-content:has(table) {
     max-width: var(--ls-main-content-max-width-wide);

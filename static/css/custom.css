@@ -7,3 +7,4 @@
 .recent>div>.header { display: none !important; }
 .favorites { display: none; }
 .faviorites>div>.header { display: none !important; }
+.graph-view {display: none;}

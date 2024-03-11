@@ -1,10 +1,13 @@
 # Welcome and thank you for stopping by
 	- This is just a dum dum site for me to play with :)
 	  Eventually I will post something meaningful here, probably about OP
-	  ~~~~~~~~~~~~
+	-
+	-
 - ## Links
 	- [[Home]] <- this is where you are now :)
 	- [[OP]] <- All about OpenPilot and such
+-
+-
 - ## Playground
 	- Lets test tags here and se how they look:
 		- #OP #Home

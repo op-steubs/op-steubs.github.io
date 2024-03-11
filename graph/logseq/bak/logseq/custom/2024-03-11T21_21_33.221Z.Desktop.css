@@ -1,5 +1,5 @@
 /* This uses the logseq-dev-theme but the url can be changed to any theme's github url */
-@import url("https://cdn.jsdelivr.net/gh/mschmidtkorth/logseq-msk-enhanced@main/custom.css");
+@import url("https://raw.githubusercontent.com/flowerornament/logseq-simple-parametric-theme/main/custom.css");
 
 .journals-nav { display: none; }
 .flashcards-nav { display: none; }

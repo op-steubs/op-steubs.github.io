@@ -6,6 +6,8 @@
 - ## Links
 	- [[Home]] <- this is where you are now :)
 	- [[OP]] <- All about OpenPilot and such
+	- [[Glossary]]
+	-
 -
 -
 - ## Playground
